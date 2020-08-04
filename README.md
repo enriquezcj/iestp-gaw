@@ -19,5 +19,5 @@ ESTUDIANTE: *ESTHER ANALUZ CONZA ZABALA -
             † Pol Yrbin Mamani Mamani
             *DELIA CHUCHULLO MAMANI - GAW
             *NADIA EMPERATRIZ HUILLCA TARIFA - GAW.
-            *MARIA LIZZET PAREDES QUISPE - GAW.
+            
 
