@@ -1,4 +1,4 @@
-# iestp-gaw
+﻿# iestp-gaw
 Este repositorio nos servirá como un control de tareas para GAW.
 DOCENTE: JUAN CARLOS ENRIQUEZ QUISPE
 ESTUDIANTE: *ESTHER ANALUZ CONZA ZABALA - 
@@ -16,3 +16,4 @@ ESTUDIANTE: *ESTHER ANALUZ CONZA ZABALA -
             *LIZBETH PACCO CHAÑI - IESTP - GAW
 * HERNAN LLAIQUE CONZA ---GAW
             GLADYS PUMA HUAYLLA
+            † Pol Yrbin Mamani Mamani
