@@ -17,3 +17,4 @@ ESTUDIANTE: *ESTHER ANALUZ CONZA ZABALA -
 * HERNAN LLAIQUE CONZA ---GAW
             GLADYS PUMA HUAYLLA
             † Pol Yrbin Mamani Mamani
+            *DELIA CHUCHULLO MAMANI - GAW
