@@ -14,7 +14,7 @@ ESTUDIANTE: *ESTHER ANALUZ CONZA ZABALA -
             *JOEL HUAHUISA CASTRO -  GAW.
             *GUADALUPE LACUTA YUCRA - GAW.
             *LIZBETH PACCO CHAÑI - IESTP - GAW
-* HERNAN LLAIQUE CONZA ---GAW
+* HERNAN LLAIQUE CONZA ---IESTP-GAW
             GLADYS PUMA HUAYLLA
             † Pol Yrbin Mamani Mamani
             *DELIA CHUCHULLO MAMANI - GAW
@@ -25,3 +25,5 @@ JEANET SULLA CCACYA /GAW
             *YULISA LLASA GARCIA - GAW
             *SHANDY LLASCCANOA CCOA - GAW
             *ZENAYDA VALERIA HUAYHUA HUAMANI - GAW
+
+            considero que eso sera todo...
