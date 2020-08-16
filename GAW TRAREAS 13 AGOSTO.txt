@@ -1,0 +1,6 @@
+TAREAS:
+- Crear un RAMA, ejemplo: "zulmacc". iestp-gaw
+- Crear en su propio repositorio una rama.
+- Averiguar como borrar un commit en git.(pts. adicionales)
+- Como funciona el MERGE. y que es??.(pts. adicionales)
+
