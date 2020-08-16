@@ -26,4 +26,4 @@ JEANET SULLA CCACYA /GAW
             *SHANDY LLASCCANOA CCOA - GAW
             *ZENAYDA VALERIA HUAYHUA HUAMANI - GAW
 
-            considero que eso sera todo...
+            Hello everyone my friends :D
