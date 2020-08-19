@@ -26,5 +26,6 @@ JEANET SULLA CCACYA /GAW
             *SHANDY LLASCCANOA CCOA - GAW
             *ZENAYDA VALERIA HUAYHUA HUAMANI - GAW
 	    *PERCY KEVIN MILLIO QUISPE - GAW
+            *DENVER NEFFLEN CKANA PUMA - GAW
 
             Hello everyone my friends :D
