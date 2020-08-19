@@ -25,5 +25,6 @@ JEANET SULLA CCACYA /GAW
             *YULISA LLASA GARCIA - GAW
             *SHANDY LLASCCANOA CCOA - GAW
             *ZENAYDA VALERIA HUAYHUA HUAMANI - GAW
+	    *PERCY KEVIN MILLIO QUISPE - GAW
 
             Hello everyone my friends :D
